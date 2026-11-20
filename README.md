@@ -1,2 +1,3 @@
-# mi-repositorio-JRRR
-Control de Versiones con Git
+Jonathan Ricardo Rodriguez Rosas
+PROGRAMACION WEB II
+Preparatoria San Jose Del valle
